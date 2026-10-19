@@ -15,16 +15,17 @@ the world, or their friends whom they may add.
 
 ### User Stories
 
-1. I want to create an account where my pins are saved
-2. I want to have an account where I can follow friends and see what they have saved
-3. I want to be able to select passages from texts I have been reading
-4. I want to easily search for the book I want
-5. I want to be able to place the pin anywhere I wish 
-6. I want to set the pin as public, private, or to friends only
-7. I want to be able to edit or delete my pins
+1. I want to create an account where my pins are saved - Rohail (Logins)
+2. I want to have an account where I can follow friends and see what they have saved - Rohail (Logins)
+3. I want to be able to select passages from texts I have been reading - Taysen (Library)
+4. I want to easily search for the book I want - Taysen (Library)
+5. I want to be able to place the pin anywhere I wish - John (Maps)
+6. I want to set the pin as public, private, or to friends only - John (Maps)
+7. I want to be able to edit or delete my pins - John (Maps)
 8. I want to click on any pin available to me (friends' pins, my own pins, public pins) and
-read its passage, see the place, and read the users thoughts. 
-9. I want to be able to attach an excerpt, my thoughts, and a photo of the location to any given pin
+read its passage, see the place, and read the users thoughts. - Katelyn (Profile)
+9. I want to be able to attach an excerpt, my thoughts, and a photo of the location to any given pin - Unassigned
+10. I want to be able to edit my profile to add/remove friends and pins - Katelyn (Profile)
 
 ### Structure (Classes, Interfaces, and Methods)
 
